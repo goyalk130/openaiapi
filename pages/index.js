@@ -1,5 +1,5 @@
 "use client";
-import Query from "@/components/query";
+import Query from "@/components/Query";
 import Addquery from "@/utils/Addquery";
 import { useState } from "react";
 
